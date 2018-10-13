@@ -1,0 +1,27 @@
+Menutools 1.0
+Includes launching of calc, notepad and the changelog
+There are also Pc shutdown options (batcomponent1.bat).
+added in 1.0
+-added changelog and pc shutdown options
+
+Menutools 1.1
+-fixed text
+-fixed functions if broken
+
+Menutools 1.2
+fixed text
+added info about version in title and a seperate function
+
+Menutools 1.3
+added Internet Shortcuts (batcomponent2.bat)
+updated text
+hooked batcomponent2.bat deeper into menu.bat
+
+MenuTools 1.4
+added cmd and taskmgr shortcuts
+Updated text
+
+Menutools 1.5
+added Device Management and Control Panel Options
+Edited batcomponent1.bat with 1 new function and updated text
+Edited batcomponent2.bat to update text
